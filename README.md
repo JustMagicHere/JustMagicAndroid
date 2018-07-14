@@ -1,0 +1,2 @@
+# JustMagicAndroid
+Its all new
